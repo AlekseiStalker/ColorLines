@@ -338,8 +338,8 @@
                                TextAlignment="Justify"
                                 TextWrapping="Wrap" 
                                 Foreground="Black">This game is a clone of the famous classic Color Lines. 
-                                <LineBreak/>The main purpose of writing the application was to get acquainted with the WPF technology and its capabilities, so some things, from the point of view of the program code implementation and the game itself, may need to be improved.
-                               <LineBreak/>The basic rules of the game were saved, user also can independently choose the size of the board for the game, how many balls will drop out and how many balls are needed for the full line.
+                                <LineBreak/>The main purpose of writing the application was to get acquainted with the WPF technology and its capabilities, so some things, from the point of view program code implementation and the game itself, may need to be improved.
+                               <LineBreak/>The basic rules of the game were saved, user also can independently choose the size of the board for the game, how many balls will drop out and how many balls are needed for collecting line.
                     </TextBlock>
                     <Label Content="About developer:" FontSize="25" />
                     <TextBlock x:Name="AboutDeveloperText" xml:space="preserve"
@@ -350,21 +350,7 @@
                     <Button Content="Exit" FontSize="20"  Margin="0 20 0 0" Command="{Binding OpenAboutGame}"/>
                 </StackPanel>
               
-            </Viewbox>
-            <!--<Viewbox Margin="3">
-                <StackPanel Orientation="Vertical">
-                    <StackPanel Orientation="Vertical" Margin="2" Width="400"> 
-                        <TextBlock TextWrapping="Wrap" FontSize="10"  Text="This game is a clo ize of the board for the game, how many balls will drop out and how many balls are needed for the full line."  Width="25" TextAlignment="Center"/>
-                    </StackPanel>
-                    <StackPanel Orientation="Vertical" Margin="2">
-                        <Label Content="About developer:"/>
-                        <TextBlock VerticalAlignment="Stretch" TextWrapping="Wrap"  Text="The game was created by Alexey Ovsyannikov, with soul."  Width="25" TextAlignment="Center"/>
-                    </StackPanel> 
-                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
-                      
-                    </StackPanel>
-                </StackPanel>
-            </Viewbox>-->
+            </Viewbox> 
 
             <Border.RenderTransform>
                 <ScaleTransform x:Name="aboutGameScaleTransform" ScaleX="0.3" ScaleY="0.3"/>
