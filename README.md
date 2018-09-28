@@ -13,7 +13,7 @@ Game View fully contains in the `MainWindow.xaml` file.
 >Features of the game
 
 - The game board is generated dynamically depending on board_size in settings
-- Also game settings allow users change the number of randomly balls dropped at one time and the count of balls needed to collect the "color line"
+- Also game settings allow users to change the number of randomly balls dropped at one time and the count of balls needed to collect the "color line"
 - Atomized screen resizing
 - Ability to save/continue game
 - Game records and a current score are determined for each board size separately
