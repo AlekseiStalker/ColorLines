@@ -17,3 +17,5 @@ Game View fully contains in the `MainWindow.xaml` file.
 - Atomized screen resizing
 - Ability to save/continue game
 - Game records and a current score are determined for each board size separately
+
+![ball1](https://user-images.githubusercontent.com/29926552/46201901-05e30780-c31e-11e8-9c34-176deae4133e.gif)
