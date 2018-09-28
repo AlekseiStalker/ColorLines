@@ -10,7 +10,7 @@ The ViewModels folder contains classes that duplicate properties of the main cla
 
 Game View fully contains in the `MainWindow.xaml` file.
 
-## Features of the game
+## Game features
 
 - The game board is generated dynamically depending on board_size in settings
 - Also game settings allow users to change the number of randomly balls dropped at one time and the count of balls needed to collect the "color line"
