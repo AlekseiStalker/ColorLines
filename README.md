@@ -13,3 +13,6 @@ Classic [Color Lines](https://ru.wikipedia.org/wiki/Color_Lines) implemented wit
 - Game records and current score are determined for each board size
 
 ![ball1](https://user-images.githubusercontent.com/29926552/46201901-05e30780-c31e-11e8-9c34-176deae4133e.gif)
+
+![BallAndLines](https://user-images.githubusercontent.com/29926552/79449962-d6254e80-7fec-11ea-9eb6-dbb534bd8826.png)
+
